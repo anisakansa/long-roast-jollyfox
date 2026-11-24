@@ -1,0 +1,1 @@
+{"description":"The Long Roast — one-line roast entry for make.fun","license":"MIT","main":"main.ts","name":"long-roast-jollyfox","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
